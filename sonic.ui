@@ -27,7 +27,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../Downloads/green-hill.png</pixmap>
+     <pixmap>img/green hill.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -63,7 +63,7 @@ border-radius: 10px;
     <property name="geometry">
      <rect>
       <x>340</x>
-      <y>260</y>
+      <y>200</y>
       <width>121</width>
       <height>191</height>
      </rect>
@@ -186,7 +186,7 @@ border-radius: 10px;
     <property name="geometry">
      <rect>
       <x>180</x>
-      <y>0</y>
+      <y>20</y>
       <width>441</width>
       <height>61</height>
      </rect>
@@ -201,6 +201,7 @@ border-radius: 10px;
     </property>
     <property name="styleSheet">
      <string notr="true">QLabel{
+background-color: #c30000;
 color: orange;
 }</string>
     </property>
@@ -219,7 +220,7 @@ color: orange;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-background-color: #FFFFFF;
+background-color: #40d600;
 }</string>
     </property>
     <property name="text">
